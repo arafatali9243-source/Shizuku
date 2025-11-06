@@ -167,5 +167,3 @@ public class ShizukuShellLoader {
         System.err.println(message);
         System.err.flush();
         System.exit(1);
-    }
-}
